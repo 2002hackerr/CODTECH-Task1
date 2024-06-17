@@ -5,7 +5,7 @@
 - **Name:** PATHLAVATH MUKESH
 - **Company:** CODTECH IT SOLUTIONS
 - **ID:** CT12CCH156
-- **Domain:** CYBER ECURITY AND ETHICAL HACKING
+- **Domain:** CYBER SECURITY AND ETHICAL HACKING
 - **Duration:** 20th May 2024 to 20th July 2024
 - **Mentor:** SRAVANI GOUNI
 
