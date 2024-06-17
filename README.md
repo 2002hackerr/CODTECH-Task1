@@ -59,3 +59,16 @@ Then give the executable permissions
 - `Password Strength Score: 6/6`
 - `Password is strong.`
 
+
+### Contributors
+
+- **Author:** PATHLAVATH MUKESH
+- **Mentor:** SRAVANI GOUNI
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to use and modify this script for evaluating password strength in your projects. It provides a straightforward way to assess password security based on common criteria.
