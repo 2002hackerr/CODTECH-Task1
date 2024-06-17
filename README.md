@@ -43,8 +43,8 @@ This function takes a password input, evaluates it against the defined criteria,
 ### Example Usage
 
 1. **Clone the repository:**
-- `git clone <https://github.com/2002hackerr/CODTECH-Task1.git>`
-- `cd <CODTECH-Task1>`
+- `git clone https://github.com/2002hackerr/CODTECH-Task1.git`
+- `cd CODTECH-Task1`
 
 2. **Run the script:**
 Then give the executable permissions
