@@ -60,6 +60,10 @@ Then give the executable permissions
 - `Password is strong.`
 
 
+![image](https://github.com/2002hackerr/CODTECH-Task1/assets/115078012/5707f204-1509-46a0-9e45-3e68e8a6909c)
+
+
+
 ### Contributors
 
 - **Author:** PATHLAVATH MUKESH
