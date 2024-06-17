@@ -1,4 +1,4 @@
-# Password Strength Checker
+# TASK ONE: PASSWORD STRENGTH CHECKER
 
 ## Project Details
 
